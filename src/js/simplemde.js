@@ -40,7 +40,8 @@ var bindings = {
 	"undo": undo,
 	"redo": redo,
 	"toggleSideBySide": toggleSideBySide,
-	"toggleFullScreen": toggleFullScreen
+	"toggleFullScreen": toggleFullScreen,
+	"uploadImage": uploadImage,
 };
 
 var shortcuts = {
